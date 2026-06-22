@@ -70,8 +70,8 @@ cd tic-tac-toe
 
 This project was built while learning JavaScript and was inspired by the following resources:
 
-* 🎥 YouTube Tutorial: <a href="https://www.youtube.com/watch?v=SqrppLEljkY&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&index=13">Apna College JavaScript Tutorial</a>
-* 📂 GitHub Repository: <a href="https://github.com/shradha-khapra/JavaScriptSeries/tree/main/TicTacToe">Apna College JavaScript Tutorial</a>
+* 🎥 YouTube Tutorial: <a href="https://www.youtube.com/watch?v=SqrppLEljkY&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&index=13">Apna College JavaScript Tutorial & Project</a>
+* 📂 GitHub Repository: <a href="https://github.com/shradha-khapra/JavaScriptSeries/tree/main/TicTacToe">Shraddha Khapra JS Projects Repo</a>
 
 Special thanks to the creators of these resources for helping me understand the concepts and implementation.
 
