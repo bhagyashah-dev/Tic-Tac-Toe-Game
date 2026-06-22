@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: aquamarine;
+    background-color: #f4d35e;
+    color: #f8fafc;
     text-align: center;
 }
 
@@ -32,30 +33,32 @@ body{
     font-size: 8vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 1rem rgb(0, 0, 0.3);
-    background-color: bisque;
+    /* box-shadow: 0 0 1rem rgb(0, 0, 0.1); */
+    background-color: #334155;
 }
 
 #reset-btn {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: black;
+    background-color: #8b5cf6;
     color: white;
     border-radius: 1rem;
     border: none;
 }
-
+#reset-btn:hover, #new-btn:hover {
+    background-color: #7c3aed;
+}
 #new-btn {
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: black;
+    background-color: #8b5cf6;
     color: white;
     border-radius: 1rem;
     border: none;
 }
 
 #msg {
-    color: bisque;
+    color: #f95738;
     font-size: 5vmin;
 }
 

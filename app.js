@@ -31,13 +31,13 @@ boxes.forEach((box) => {
         // console.log("box was clicked");
         if(turnO) {
             box.innerText = "O";
-            box.style.color = "blue";
+            box.style.color = "#22d3ee";
             turnO = false;
             count++;
             console.log(count);
         } else {
             box.innerText = "X";
-            box.style.color = "#FF0000";
+            box.style.color = "#f472b6";
             turnO = true;
             count++;
             console.log(count);
