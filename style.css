@@ -32,6 +32,7 @@ body{
     border-radius: 1rem;
     border: none;
     box-shadow: 0 0 1rem rgb(0, 0, 0.3);
+    background-color: bisque;
 }
 
 #reset-btn {
