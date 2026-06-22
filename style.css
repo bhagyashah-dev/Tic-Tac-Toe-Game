@@ -28,7 +28,7 @@ body{
 .box{
     height: 18vmin;
     width: 18vmin;
-    color: blueviolet;
+    /* color: blueviolet; */
     font-size: 8vmin;
     border-radius: 1rem;
     border: none;
